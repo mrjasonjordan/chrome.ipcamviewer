@@ -44,6 +44,9 @@
     "Dericam": {
         "jpg": "/snapshot.cgi"
     },
+    "Dahua": {
+        "jpg": "/cgi-bin/snapshot.cgi"
+    },
     "Digi-LAN": {
         "jpg": "/cgi-bin/video.jpg"
     },
